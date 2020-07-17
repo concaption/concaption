@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/XIrYSsmqByK2U5Bolu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![](generativedesign.gif)
 
 ⏩ **TL;DR:** I am a mechanical engineering undergrad and I do data science and deep learning.
  <br /><br />
