@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/XIrYSsmqByK2U5Bolu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adweek-design-ai-artificial-intelligence-XIrYSsmqByK2U5Bolu">Motivation</a></p>
+<iframe src="https://giphy.com/embed/XIrYSsmqByK2U5Bolu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ⏩ **TL;DR:** I am a mechanical engineering undergrad and I do data science and deep learning.
  <br /><br />
