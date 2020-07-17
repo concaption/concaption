@@ -31,7 +31,7 @@
  &nbsp;  &nbsp;  &nbsp;  ✅ I speak design, product, tech, and the art of learning.<br />
  &nbsp;  &nbsp;  &nbsp;  ✅ The buck stops with me.
 
- <br />
+ <br /><br />
 🤝 I love to meet people and hear their perspectives. Reach out to me if you want to discuss emerging tech, innovative engineering solutions and case studies.
  <br /><br />
 👀 Domain Knowledge: <br />
