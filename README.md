@@ -23,6 +23,7 @@
  <br /><br />
 ✨ Hi, I am a zealous mechanical engineering student who loves to challenge mechanical industries to progress towards Industry 4.0.
  <br /><br />
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=muqadir1&show_icons=true&hide_border=true" alt="Usama Navid's GitHub Stats"></p>
 💖 I love MOOCs, OCWs, and all the platforms that are playing their role in free learning.
  <br /><br />
 🐛 I can refine, educate and drive myself to be better me.
@@ -40,5 +41,3 @@ Mechanical Engineering Design | Project Management | Data Science | Machine Lear
 Solidworks | Fusion 360 | AutoCAD | Matlab | Latex | MS Office | Python
  <br /><br />
 🔗 Read More at http://usamanavid.com/
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=muqadir1&show_icons=true&hide_border=true" alt="Usama Navid's GitHub Stats"></p>
