@@ -1,5 +1,4 @@
 ![](gd.gif) 
-
 ⏩ **TL;DR:** I am a mechanical engineering undergrad and I do data science and deep learning.
  <br /><br />
 ✉ muqadir1@gmail.com
