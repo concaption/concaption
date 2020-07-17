@@ -6,18 +6,18 @@
 
 💖 I love MOOCs, OCWs, and all the platforms that are playing their role in free learning.
 
-I can refine, educate and drive myself to be better me.
+🐛 I can refine, educate and drive myself to be better me.
 
 - ✅ I am constantly learning and never settle.
 - ✅ I speak design, product, tech, and the art of learning.
 - ✅ The buck stops with me.
 
-👨‍💻 I love to meet people and hear their perspectives. Reach out to me if you want to discuss emerging tech, innovative engineering solutions and case studies.
+🤝 I love to meet people and hear their perspectives. Reach out to me if you want to discuss emerging tech, innovative engineering solutions and case studies.
 
-Domain Knowledge:
+👀 Domain Knowledge:
 Mechanical Engineering Design | Project Management | Data Science | Machine Learning | IoT | Digital Manufacturing and Design (DMD) | Generative Design
 
-Software/Skills:
+👨‍💻 Software/Skills:
 Solidworks | Fusion 360 | AutoCAD | Matlab | Latex | MS Office | Python
 
-Read More at [UsamaNavid.com](http://usamanavid.com/)
+🔗 Read More at [UsamaNavid.com](http://usamanavid.com/)
