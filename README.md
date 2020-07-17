@@ -29,7 +29,7 @@
  <br />
  <img src="https://github-readme-stats.vercel.app/api?username=muqadir1&show_icons=true&hide_border=true" alt="Usama Navid's GitHub Stats" align="right"><br />
  &nbsp;  &nbsp;  &nbsp;  ✅ I am constantly learning and never settle.<br />
- &nbsp;  &nbsp;  &nbsp;  ✅ I speak design, product, tech, and the art of learning.<br />
+ &nbsp;  &nbsp;  &nbsp;  ✅ I speak design, product, tech, and MOOCs.<br />
  &nbsp;  &nbsp;  &nbsp;  ✅ The buck stops with me.
  <br /><br />
 🤝 I love to meet people and hear their perspectives. Reach out to me if you want to discuss emerging tech, innovative engineering solutions and case studies.
