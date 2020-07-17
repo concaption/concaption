@@ -1,5 +1,5 @@
-# <img src="https://emojipedia-us.s3.amazonaws.com/content/2017/09/21/animoji-alien-emojipedia.gif" width="48px"> Muhammad Usama Navid
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!
+# <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/alien.gif" width="64px"> Muhammad Usama Navid
+### <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/Hi.gif" width="29px"> Hello world!
 
 ⏩ **TL;DR:** I am a mechanical engineering undergrad and I do data science and deep learning.
  <br /><br />
