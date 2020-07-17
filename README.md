@@ -24,9 +24,9 @@
 ✨ Hi, I am a zealous mechanical engineering student who loves to challenge mechanical industries to progress towards Industry 4.0.
  <br /><br />
 💖 I love MOOCs, OCWs, and all the platforms that are playing their role in free learning.
- <br /><img src="https://github-readme-stats.vercel.app/api?username=muqadir1&show_icons=true&hide_border=true" alt="Usama Navid's GitHub Stats" align="right">
+ <br /><br />
 🐛 I can refine, educate and drive myself to be better me.
-<br /><br />
+<br /><img src="https://github-readme-stats.vercel.app/api?username=muqadir1&show_icons=true&hide_border=true" alt="Usama Navid's GitHub Stats" align="right">
  &nbsp;  &nbsp;  &nbsp;  ✅ I am constantly learning and never settle.<br />
  &nbsp;  &nbsp;  &nbsp;  ✅ I speak design, product, tech, and MOOCs.<br />
  &nbsp;  &nbsp;  &nbsp;  ✅ The buck stops with me.
