@@ -1,4 +1,4 @@
-![](generative design.gif)
+![](generative design.gif) 
 
 ⏩ **TL;DR:** I am a mechanical engineering undergrad and I do data science and deep learning.
  <br /><br />
