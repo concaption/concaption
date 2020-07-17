@@ -1,5 +1,4 @@
-### Howdy, you! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!
 
 ⏩ **TL;DR:** I am a mechanical engineering undergrad and I do data science and deep learning.
  <br /><br />
