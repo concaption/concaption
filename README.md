@@ -1,11 +1,11 @@
 # <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/alien.gif" width="30px"> Muhammad Usama Navid
-### <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/Hi.gif" width="28px"> Hello world!
+### Hello world! <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/Hi.gif" width="28px"> 
 
-<a href="https://twitter.com/muqadir1t">
-  <img align="left" alt="Usama's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/muqadir1/">
   <img align="left" alt="Usama's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/muqadir1t">
+  <img align="left" alt="Usama's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/muqadir1/">
   <img align="left" alt="Usama's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
