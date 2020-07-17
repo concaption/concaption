@@ -1,5 +1,4 @@
 # <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/alien.gif" width="30px"> Muhammad Usama Navid
-<br/>
 
 ### Hello world! <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/Hi.gif" width="28px"> 
 
