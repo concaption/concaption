@@ -13,13 +13,14 @@
 - ✅ I am constantly learning and never settle.
 - ✅ I speak design, product, tech, and the art of learning.
 - ✅ The buck stops with me.
+
  <br /><br />
 🤝 I love to meet people and hear their perspectives. Reach out to me if you want to discuss emerging tech, innovative engineering solutions and case studies.
  <br /><br />
-👀 Domain Knowledge: <br /><br />
+👀 Domain Knowledge: <br />
 Mechanical Engineering Design | Project Management | Data Science | Machine Learning | IoT | Digital Manufacturing and Design (DMD) | Generative Design
  <br /><br />
-👨‍💻 Software/Skills: <br /><br />
+👨‍💻 Software/Skills: <br />
 Solidworks | Fusion 360 | AutoCAD | Matlab | Latex | MS Office | Python
  <br /><br />
 🔗 Read More at [UsamaNavid.com](http://usamanavid.com/)
