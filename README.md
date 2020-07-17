@@ -23,5 +23,4 @@ Mechanical Engineering Design | Project Management | Data Science | Machine Lear
 👨‍💻 Software/Skills: <br />
 Solidworks | Fusion 360 | AutoCAD | Matlab | Latex | MS Office | Python
  <br /><br />
-🔗 Read More at [UsamaNavid]: http://usamanavid.com/
-
+🔗 Read More at http://usamanavid.com/
