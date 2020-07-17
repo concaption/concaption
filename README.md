@@ -13,9 +13,9 @@
  <br /><br />
 🐛 I can refine, educate and drive myself to be better me.
  <br /><br />
-     I am constantly learning and never settle.<br />
-     I speak design, product, tech, and the art of learning.<br />
-     The buck stops with me.
+     ✅ I am constantly learning and never settle.<br />
+     ✅ I speak design, product, tech, and the art of learning.<br />
+     ✅ The buck stops with me.
 
  <br />
 🤝 I love to meet people and hear their perspectives. Reach out to me if you want to discuss emerging tech, innovative engineering solutions and case studies.
