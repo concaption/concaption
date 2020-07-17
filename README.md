@@ -26,6 +26,6 @@ Mechanical Engineering Design | Project Management | Data Science | Machine Lear
 👨‍💻 Software/Skills: <br />
 Solidworks | Fusion 360 | AutoCAD | Matlab | Latex | MS Office | Python
  <br /><br />
-🔗 Read More at [Us](http://usamanavid.com/)
+🔗 Read More at [http://usamanavid.com/](dd)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=muqadir1&show_icons=true&hide_border=true" alt="Usama Navid's GitHub Stats"></p>
