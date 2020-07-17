@@ -27,4 +27,4 @@ Mechanical Engineering Design | Project Management | Data Science | Machine Lear
 Solidworks | Fusion 360 | AutoCAD | Matlab | Latex | MS Office | Python
  <br /><br />
 🔗 Read More at http://usamanavid.com/
-<img src="https://github-readme-stats.vercel.app/api?username=muqadir1&show_icons=true&hide_border=true" alt="Saad's GitHub Stats">
+<div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=muqadir1&show_icons=true&hide_border=true" alt="Saad's GitHub Stats"> <div />
