@@ -16,7 +16,10 @@
 </a>
 <a href="mailto:muqadir1@gmail.com">
   <img align="left" alt="Usama's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a><p align="right"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
  <br /><br />
  🚀 TL;DR: I am a mechanical engineering undergrad and I do data science and deep learning.
  <br /><br />
