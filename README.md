@@ -1,7 +1,8 @@
 # <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/alien.gif" width="30px"> Muhammad Usama Navid
 
 ### Hello world! <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/Hi.gif" width="28px"> 
-
+<p style="text-align:right">This is some text in a paragraph.</p>
+<img align="right" src="https://profile-counter.glitch.me/muqadir1/count.svg" />
 <a href="https://www.linkedin.com/in/muqadir1/">
   <img align="left" alt="Usama's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -17,8 +18,6 @@
 <a href="mailto:muqadir1@gmail.com">
   <img align="left" alt="Usama's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-  <img align="right" src="https://profile-counter.glitch.me/muqadir1/count.svg" />
-</p>
  <br /><br />
  🚀 TL;DR: I am a mechanical engineering undergrad and I do data science and deep learning.
  <br /><br />
