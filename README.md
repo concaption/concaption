@@ -16,8 +16,7 @@
 </a>
 <a href="mailto:muqadir1@gmail.com">
   <img align="left" alt="Usama's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a><p align="right"> 
-  Visitor count<br>
+</a>
   <img align="right" src="https://profile-counter.glitch.me/muqadir1/count.svg" />
 </p>
  <br /><br />
