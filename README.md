@@ -19,14 +19,12 @@
  <br /><br />
  🚀 TL;DR: I am a mechanical engineering undergrad and I do data science and deep learning.
  <br /><br />
-👏 During my freshman year, I realized that in whatever the condition one is in, by challenging and focusing on the goal one can improve and improvise oneself. In the first semester, I got a below-average grade point average of 3.09. For me instead of GPA, not having good learning and proper planning were the things worth worrying about. So, I took progress, punctuality, and better planning as a challenge, and by the grace of Allah Almighty, I was able to get into Dean's List by replacing 9 in my GPA from 3.09 to 3.90 at the end of my freshman year.
- <br /><br />
 ✨ Hi, I am a zealous mechanical engineering student who loves to challenge mechanical industries to progress towards Industry 4.0.
  <br /><br />
 💖 I love MOOCs, OCWs, and all the platforms that are playing their role in free learning.
  <br /><br />
 🐛 I can refine, educate and drive myself to be better me.
-<br /><img src="https://github-readme-stats.vercel.app/api?username=muqadir1&show_icons=true&hide_border=true" alt="Usama Navid's GitHub Stats" align="right">
+<br /><img src="https://github-readme-stats.vercel.app/api?username=muqadir1&show_icons=true&hide_border=true&theme=dark" alt="Usama Navid's GitHub Stats" align="right">
  &nbsp;  &nbsp;  &nbsp;  ✅ I am constantly learning and never settle.<br />
  &nbsp;  &nbsp;  &nbsp;  ✅ I speak design, product, tech, and MOOCs.<br />
  &nbsp;  &nbsp;  &nbsp;  ✅ The buck stops with me.
