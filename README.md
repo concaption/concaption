@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/muqadir1/muqadir1/blob/master/Assets/banner.png" />
 # <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/alien.gif" width="30px"> Muhammad Usama Navid
 ### Hello world! <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/Hi.gif" width="28px"> 
 <img align="right" src="https://profile-counter.glitch.me/muqadir1/count.svg" />
