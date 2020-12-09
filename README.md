@@ -1,9 +1,5 @@
-<img align="center" style="border-radius:10px" src="https://github.com/muqadir1/muqadir1/blob/master/Assets/banner.png" />
-<style>
-img {
-  border-radius:20px;
-}
-</style>
+<img align="center" border-radius=10px src="https://github.com/muqadir1/muqadir1/blob/master/Assets/banner.png" />
+
 # Muhammad Usama Navid
 ### Hello world! <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/Hi.gif" width="28px"> 
 <img align="right" src="https://profile-counter.glitch.me/muqadir1/count.svg" />
