@@ -1,5 +1,10 @@
-<img align="center" src="https://github.com/muqadir1/muqadir1/blob/master/Assets/banner.png" />
-# <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/alien.gif" width="30px"> Muhammad Usama Navid
+<img align="center" style="border-radius:10px" src="https://github.com/muqadir1/muqadir1/blob/master/Assets/banner.png" />
+<style>
+img {
+  border-radius:20px;
+}
+</style>
+# Muhammad Usama Navid
 ### Hello world! <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/Hi.gif" width="28px"> 
 <img align="right" src="https://profile-counter.glitch.me/muqadir1/count.svg" />
 <a href="https://www.linkedin.com/in/muqadir1/">
