@@ -3,7 +3,7 @@
 # Muhammad Usama Navid
 ### Hello world! <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/Hi.gif" width="28px"> 
 <img align="right" src="https://profile-counter.glitch.me/muqadir1/count.svg" />
-<a href="https://www.linkedin.com/in/muqadir1/">
+<a href="https://www.linkedin.com/in/concaption/">
   <img align="left" alt="Usama's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/concaption">
@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/concaption/">
   <img align="left" alt="Usama's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/muqadir1">
+<a href="https://www.instagram.com/concaption">
   <img align="left" alt="Usama's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="mailto:muqadir1@gmail.com">
@@ -26,7 +26,7 @@
 💖 I love MOOCs, OCWs, and all the platforms that are playing their role in free learning.
  <br /><br />
 🐛 I can refine, educate and drive myself to be better me.
-<br /><img src="https://github-readme-stats.vercel.app/api?username=muqadir1&show_icons=true&hide_border=true&theme=dark" alt="Usama Navid's GitHub Stats" align="right">
+<br /><img src="https://github-readme-stats.vercel.app/api?username=concaption&show_icons=true&hide_border=true&theme=dark" alt="Usama Navid's GitHub Stats" align="right">
  &nbsp;  &nbsp;  &nbsp;  ✅ I am constantly learning and never settle.<br />
  &nbsp;  &nbsp;  &nbsp;  ✅ I speak design, product, tech, and MOOCs.<br />
  &nbsp;  &nbsp;  &nbsp;  ✅ The buck stops with me.
