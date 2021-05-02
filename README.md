@@ -2,7 +2,7 @@
 
 # Muhammad Usama Navid
 ### Hello world! <img src="https://github.com/concaption/concaption/blob/master/Assets/Hi.gif" width="28px">
-<img align="right" src="https://badges.pufler.dev/visits/concaption/concaption/"><img src="https://badges.pufler.dev/years/concaption/">
+<img align="right" src="https://badges.pufler.dev/visits/concaption/concaption/"><img align="right" src="https://badges.pufler.dev/years/concaption/">
 <a href="https://www.linkedin.com/in/concaption/">
   <img align="left" alt="Usama's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
