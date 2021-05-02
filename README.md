@@ -2,22 +2,6 @@
 
 # Muhammad Usama Navid
 ### Hello world! <img src="https://github.com/concaption/concaption/blob/master/Assets/Hi.gif" width="28px">
-<img align="right" src="https://badges.pufler.dev/visits/concaption/concaption/"><img align="right" src="https://badges.pufler.dev/years/concaption/">
-<a href="https://www.linkedin.com/in/concaption/">
-  <img align="left" alt="Usama's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/concaption">
-  <img align="left" alt="Usama's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.facebook.com/concaption/">
-  <img align="left" alt="Usama's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/concaption">
-  <img align="left" alt="Usama's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="mailto:concaption@gmail.com">
-  <img align="left" alt="Usama's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
  <br /><br />
  🚀 TL;DR: I am a mechanical engineering undergrad and I do data science and deep learning.
  <br /><br />
@@ -40,3 +24,9 @@ Mechanical Engineering Design | Project Management | Data Science | Machine Lear
 Solidworks | Fusion 360 | AutoCAD | Matlab | Latex | MS Office | Python
  <br /><br />
 🔗 Read More at http://usamanavid.com/
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:concaption@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40concaption)](https://twitter.com/concaption)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/concaption/)
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/concaption/)
+![GitHub followers](https://img.shields.io/github/followers/concaption?label=followers&style=social)
+<img align="right" src="https://badges.pufler.dev/visits/concaption/concaption/"><img align="right" src="https://badges.pufler.dev/years/concaption/">
