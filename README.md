@@ -29,4 +29,4 @@ Solidworks | Fusion 360 | AutoCAD | Matlab | Latex | MS Office | Python
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/concaption/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/concaption/)
 ![GitHub followers](https://img.shields.io/github/followers/concaption?label=followers&style=social)
-<img align="right" src="https://badges.pufler.dev/visits/concaption/concaption/"><img align="right" src="https://badges.pufler.dev/years/concaption/">
+<img align="right" src="https://badges.pufler.dev/visits/concaption/concaption/"><img align="right" src="https://badges.pufler.dev/years/muqadir1/">
