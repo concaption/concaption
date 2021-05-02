@@ -2,8 +2,7 @@
 
 # Muhammad Usama Navid
 ### Hello world! <img src="https://github.com/concaption/concaption/blob/master/Assets/Hi.gif" width="28px">
- <br /><br />
- 🚀 TL;DR: I am a mechanical engineering undergrad and I do data science and deep learning.
+ 🚀 TL;DR: I am a mechanical engineering undergrad and I do cad, data science, and deep learning.
  <br /><br />
 ✨ Hi, I am a zealous mechanical engineering student who loves to challenge mechanical industries to progress towards Industry 4.0.
  <br /><br />
