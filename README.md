@@ -1,8 +1,8 @@
 <img align="center" src="https://github.com/muqadir1/muqadir1/blob/master/Assets/banner.png" />
 
 # Muhammad Usama Navid
-### Hello world! <img src="https://github.com/muqadir1/muqadir1/blob/master/Assets/Hi.gif" width="28px"> 
-<img align="right" src="https://profile-counter.glitch.me/muqadir1/count.svg" />
+### Hello world! <img src="https://github.com/concaption/concaption/blob/master/Assets/Hi.gif" width="28px">
+<img align="right" src="https://badges.pufler.dev/visits/kinzakanwal/kinzakanwal/"><img src="https://badges.pufler.dev/years/kinzakanwal/">
 <a href="https://www.linkedin.com/in/concaption/">
   <img align="left" alt="Usama's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/concaption">
   <img align="left" alt="Usama's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="mailto:muqadir1@gmail.com">
+<a href="mailto:concaption@gmail.com">
   <img align="left" alt="Usama's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
  <br /><br />
