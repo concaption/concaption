@@ -2,7 +2,8 @@
 
 # Muhammad Usama Navid
 ### Hello world! <img src="https://github.com/concaption/concaption/blob/master/Assets/Hi.gif" width="28px"> <img align="right" src="https://badges.pufler.dev/visits/concaption/concaption/">
- 🚀 TL;DR: I am a mechanical engineering undergrad and I do cad, data science, and deep learning.
+ 🚀 TL;DR: I am a mechanical engineering undergrad and I do cad, data science, and deep learning. 
+ ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
  <br /><br />
 ✨ Hi, I am a zealous mechanical engineering student who loves to challenge mechanical industries to progress towards Industry 4.0.
  <br /><br />
