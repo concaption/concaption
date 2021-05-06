@@ -33,5 +33,5 @@ Solidworks | Fusion 360 | AutoCAD | Matlab | Latex | MS Office | Python
 <a href="https://github.com/concaption"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/concaption"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  <br/>
-<img width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=concaption&theme=highcontrast&hide_border=true&ring=33D679&stroke=33D679&border=33D679&fire=33D679&currStreakNum=33D679&sideNums=33D679&currStreakLabel=33D679"> <img width="40%" src="https://github-readme-stats.vercel.app/api?username=concaption&show_icons=true&hide_border=true&theme=dark" alt="Usama Navid's GitHub Stats">
+<img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=concaption&theme=highcontrast&hide_border=true&ring=33D679&stroke=33D679&border=33D679&fire=33D679&currStreakNum=33D679&sideNums=33D679&currStreakLabel=33D679"> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=concaption&show_icons=true&hide_border=true&theme=dark" alt="Usama Navid's GitHub Stats">
 </p>
