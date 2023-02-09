@@ -23,7 +23,7 @@ Mechanical Engineering Design | Project Management | Data Science | Machine Lear
 👨‍💻 Software/Skills:<br />
 Solidworks | Fusion 360 | AutoCAD | Matlab | Latex | MS Office | Python
  <br /><br />
-🔗 Read More at http://usamanavid.com/
+🔗 Read More at http://usamanavid.co/
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/concaption/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
