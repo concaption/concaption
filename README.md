@@ -1,14 +1,13 @@
 ✉️ concaption@gmail.com
 
 Some of the stacks that I have worked on before:
-🙌 No Code: Bubble.io, Webflow, FlutterFlow,
-‍💻 Fullstack: Next Js, Django, Flask, Fast API, Astro,
-📊 Data: Python, Matlab, BigQuery,
-📈 Analytics: Mixpanel, GA4,
-🤖 AI: Pytorch, Tensorflow, Keras, Scikit Learn,
-📦 CAD: Fusion 360, AutoCAD, SolidWorks,
-🐛 Others: Notion, Trello, Git
-🦼 LLMs: Contributed to LangChain back in January.
+* 🙌 **No Code:** Bubble.io, Webflow, FlutterFlow,
+* ‍💻 **Fullstack:** Next Js, Django, Flask, Fast API, Astro,
+* 📊 **Data:** Python, Matlab, BigQuery,
+* 📈 **Analytics:** Mixpanel, GA4,
+* 🤖 **AI:** Pytorch, Tensorflow, Keras, Scikit Learn,
+* 📦 **CAD:** Fusion 360, AutoCAD, SolidWorks,
+* 🐛 **Others:** Notion, Trello, Git
 
 I am a passionate learner who refuses to settle for mediocrity. My dedication to improvement was demonstrated during my freshman year when I took a below-average GPA of 3.09 and transformed it into a Dean's List worthy 3.90. I am constantly seeking out new opportunities to learn, whether through MOOCs, OCWs, or other platforms for free education.
 
