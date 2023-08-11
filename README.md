@@ -4,7 +4,7 @@ I am building [buildberg](https://buildberg.co/)
 
 Some of the stacks that I have worked on before:
 * 🙌 **No Code:** Bubble.io, Webflow, FlutterFlow,
-* ‍💻 **Fullstack:** Next Js, Django, Flask, Fast API, Astro,
+* ‍💻 **Fullstack:** Next Js, Django, Flask, Celery, Fast API, Astro,
 * 📊 **Data:** Python, Matlab, BigQuery,
 * 📈 **Analytics:** Mixpanel, GA4,
 * 🤖 **AI:** Pytorch, Tensorflow, Keras, Scikit Learn,
