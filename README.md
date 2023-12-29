@@ -1,5 +1,8 @@
 ✉️ concaption@gmail.com
 
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=concaption)
+
 I am building [buildberg](https://buildberg.co/)
 
 Some of the stacks that I have worked on before:
