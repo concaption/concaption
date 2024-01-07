@@ -5,7 +5,6 @@
 ✉️ concaption@gmail.com
 
 
-I am building [buildberg](https://buildberg.co/)
 
 Some of the stacks that I have worked on before:
 * 🙌 **No Code:** Bubble.io, Webflow, FlutterFlow,
