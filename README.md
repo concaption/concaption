@@ -7,11 +7,11 @@
 
 
 Some of the stacks that I have worked on before:
-* 🙌 **No Code:** Bubble.io, Webflow, FlutterFlow,
+* 🙌 **No Code:** Bubble.io, Webflow, FlutterFlow, Directus
 * ‍💻 **Fullstack:** Next Js, Django, Flask, Celery, Fast API, Astro,
-* 📊 **Data:** Python, Matlab, BigQuery,
+* 📊 **Data:** Python, Matlab, BigQuery, AirByte, Mage
 * 📈 **Analytics:** Mixpanel, GA4,
-* 🤖 **AI:** Pytorch, Tensorflow, Keras, Scikit Learn,
+* 🤖 **AI:** Pytorch, Tensorflow, Keras, Scikit Learn, LangChain,
 * 📦 **CAD:** Fusion 360, AutoCAD, SolidWorks,
 * 🐛 **Others:** Notion, Trello, Git
 
